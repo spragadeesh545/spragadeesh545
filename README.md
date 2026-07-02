@@ -1,82 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff41,100:000000&text=PRAGADEESH&fontColor=00ff41&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Pragadeesh&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Software%20Engineer%20•%20Problem%20Solver&descAlignY=65"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems;Creator+of+AyurSutra+PMS;LeetCode+Problem+Solver;Always+learning+new+technologies;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+digital+universe...;Full+Stack+Developer;Building+AyurSutra+PMS;LeetCode+Problem+Solver;Future+Software+Engineer;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+<p>
+<img src="https://komarev.com/ghpvc/?username=spragadeesh545&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/spragadeesh545?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/spragadeesh545?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 💻 SYSTEM TERMINAL
+# 👨‍💻 About Me
 
-```bash
-> Initializing Developer Profile...
+```yaml
+name: Pragadeesh
+role: Full Stack Developer
+focus:
+  - Backend Development
+  - System Design
+  - Cloud Technologies
+  - Problem Solving
 
-Name        : Pragadeesh
-Username    : spragadeesh545
-Role        : Full Stack Developer
-Status      : Available for Opportunities
-Current     : Building AyurSutra PMS
-Mission     : Build products that solve real problems
-Location    : India
+currently_building:
+  - AyurSutra PMS
 
-CPU Usage   : ██████████ 100%
-Coffee      : ██████████ 100%
-Bugs        : Eliminating...
-System      : ONLINE ✅
+goal:
+  - Become a Software Engineer
 ```
 
 ---
 
-# 🕷 About Me
+# 🚀 Featured Project
 
-- 🎓 Computer Science Engineering Student
-- 🌱 Learning Full Stack Development and System Design
-- 💡 Passionate about solving real-world problems
-- 🔥 Consistently improving through projects and DSA
-- 🚀 Aspiring Software Engineer
+## 🌿 AyurSutra PMS
+
+A modern healthcare practice management platform.
+
+### Highlights
+
+- Patient Management
+- Appointment Scheduling
+- Billing and Payments
+- Analytics Dashboard
+- Secure Authentication
+- Scalable Architecture
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,react,nodejs,mysql,mongodb,git,github,docker,vscode"/>
 
 </div>
 
 ---
 
-# 🌿 Featured Project
-
-## AyurSutra PMS
-
-A Practice Management System designed to simplify healthcare workflows.
-
-### Features
-
-- 🩺 Patient Management
-- 📅 Appointment Scheduling
-- 💳 Billing Management
-- 📊 Reports and Analytics
-- 👨‍⚕️ Doctor Dashboard
-- 🔒 Secure Authentication
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=spragadeesh545&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=spragadeesh545&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -86,65 +77,37 @@ A Practice Management System designed to simplify healthcare workflows.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=spragadeesh545&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=spragadeesh545&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Trophy Cabinet
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spragadeesh545&theme=matrix&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spragadeesh545&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Contribution Graph
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spragadeesh545&theme=react-dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spragadeesh545&theme=algolia&no-frame=true&row=1"/>
 
 </div>
 
 ---
 
-# 💬 Random Developer Quote
+# 💬 Developer Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-Enable this after creating the workflow:
-
-```text
-.github/workflows/snake.yml
-```
-
-Then add:
-
-```markdown
-![Snake animation](https://github.com/spragadeesh545/spragadeesh545/blob/output/github-contribution-grid-snake-dark.svg)
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/spragadeesh545">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -152,10 +115,8 @@ Then add:
 
 <div align="center">
 
-## 🕷 "With Great Code Comes Great Responsibility"
-
-### Keep Building • Keep Learning • Keep Shipping 🚀
+### Code • Build • Learn • Repeat
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff41,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
