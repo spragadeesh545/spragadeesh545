@@ -156,9 +156,10 @@ while(alive)
 
 ---
 
-<div align="center">
+
 
 ## 💭 Developer Quote
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1500&color=BF91F3&center=true&vCenter=true&width=900&lines=%22Make+it+work,+make+it+right,+make+it+fast.%22;%E2%80%94+Kent+Beck)](https://git.io/typing-svg)
 
