@@ -75,9 +75,11 @@ public class Pragadeesh {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spragadeesh545&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=spragadeesh545&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -103,11 +105,12 @@ public class Pragadeesh {
 
 ---
 
-# 🏆 Trophy Wall
+
+## 🏆 Trophy Wall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spragadeesh545&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=spragadeesh545&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
