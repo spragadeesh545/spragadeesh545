@@ -75,9 +75,9 @@ public class Pragadeesh {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spragadeesh545&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spragadeesh545&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spragadeesh545&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
