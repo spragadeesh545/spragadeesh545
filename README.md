@@ -42,7 +42,7 @@ public class Pragadeesh {
 }
 ```
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🚀 Full Stack Developer passionate about building scalable applications
 - 🌿 Creator of **AyurSutra PMS**
@@ -106,11 +106,11 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 ---
 
 
-## 🏆 Trophy Wall
+## 🎯 Developer Profile
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spragadeesh545&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spragadeesh545&theme=tokyonight"/>
 
 </div>
 
@@ -128,7 +128,7 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 
 | Degree | Institution | Year |
 |---------|------------|------|
-| B.E Computer Science Engineering | Your College Name | 2027 |
+| B.E Computer Science Engineering | K.S.R COLLEGE OF ENGINEERING | 2027 |
 
 ---
 
@@ -177,17 +177,25 @@ while(alive)
 
 ---
 
-# 🐍 Contribution Snake
+## ⚡ Contribution Overview
 
 <div align="center">
 
-![Snake animation](https://github.com/spragadeesh545/spragadeesh545/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spragadeesh545&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spragadeesh545&theme=tokyonight"/>
 
 </div>
 
----
+<div align="center">
+
+## 🚀 Current Status
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+AyurSutra+PMS;Practicing+LeetCode;Learning+System+Design;Exploring+Cloud+Technologies;Open+to+Software+Engineering+Opportunities"/>
+
+</div>
 
 ## ⚡ Building software that solves real problems
 
