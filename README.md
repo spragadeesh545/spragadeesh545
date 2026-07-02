@@ -42,7 +42,7 @@ public class Pragadeesh {
 }
 ```
 
-## 👨‍💻 About Me <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me 
 
 - 🚀 Full Stack Developer passionate about building scalable applications
 - 🌿 Creator of **AyurSutra PMS**
@@ -100,17 +100,6 @@ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=spragadeesh545&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-</div>
-
----
-
-
-## 🎯 Developer Profile
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spragadeesh545&theme=tokyonight"/>
 
 </div>
 
@@ -176,18 +165,6 @@ while(alive)
 </div>
 
 ---
-
-## ⚡ Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spragadeesh545&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spragadeesh545&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
 
 ## 🚀 Current Status
 
