@@ -173,10 +173,15 @@ while(alive)
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+AyurSutra+PMS;Practicing+LeetCode;Learning+System+Design;Exploring+Cloud+Technologies;Open+to+Software+Engineering+Opportunities"/>
 
 </div>
+<div align="center">
 
-## ⚡ Building software that solves real problems
+<h2>
+  ⚡ Building software that solves real problems
+</h2>
 
-### 🚀 Build • Learn • Ship • Repeat
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=BF91F3&center=true&vCenter=true&repeat=true&width=850&lines=%F0%9F%9A%80+Build+%E2%80%A2+Learn+%E2%80%A2+Ship+%E2%80%A2+Repeat;%F0%9F%92%A1+Turn+ideas+into+products;%F0%9F%94%A5+Consistency+beats+intensity;%E2%9A%A1+Keep+building.)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
